@@ -1,5 +1,5 @@
-name,colour
-N, green
-F, purple
-M, red
-L, mauve
+name,colour, favourite
+N,green,Y
+F,purple, N
+M,red, Y
+L,mauve, N
